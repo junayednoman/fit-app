@@ -2,6 +2,7 @@
 
 Welcome to the Fit App Landing Page repository! This project highlights a modern, engaging, and fully responsive landing page designed for a fitness application, built using HTML and CSS.
 
+[Live Preview](https://junayednoman.github.io/fit-app/)
 ## Introduction 📝
 
 This landing page serves as a promotional tool for a fitness application, showcasing its features, benefits, and unique selling points. The design focuses on engaging users and encouraging them to download the app.
